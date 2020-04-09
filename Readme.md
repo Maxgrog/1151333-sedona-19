@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Максим Пискунов](https://up.htmlacademy.ru/adaptive/19/user/1151333).
-* Наставник: `Неизвестно`.
+* Наставник: [Роман Духницький](https://htmlacademy.ru/profile/id59884).
 
 ---
 
