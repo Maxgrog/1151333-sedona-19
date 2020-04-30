@@ -1,24 +1,33 @@
-@import "content.less";
-@import "page-header.less";
-@import "main-nav.less";
+@import "vars.less";
+@import "mixins.less";
 @import "site-list.less";
 @import "site-discription.less";
 @import "advantages.less";
 @import "additional-list-wrapper";
 @import "page-footer.less";
+@import "photo-video.less";
+@import "gallery-list.less";
+
 
 body {
   margin: 0;
-  padding: 0;
 
   width: 320px;
 
   font-family: 'PT Sans', Arial, sans-serif;
   font-size: 14px;
   line-height: 26px;
-  font-weight: 700;
-  color: #000000;
   text-transform: uppercase;
-
+  color: #000000;
   background-color: #ffffff;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+ul{
+list-style: none;
+margin: 0;
 }
